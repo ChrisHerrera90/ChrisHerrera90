@@ -1,17 +1,34 @@
 # <a href="https://www.linkedin.com/in/chris-herrera-cyber/">Christopher Herrera</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-Cybersecurity is a fascinating world that I never get bored of. I love the complex-problem solving nature of building out hands-on projects, there is never a dull moment! From vulnerability management to threat detection to cloud security, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+Cybersecurity is a fascinating world that I never get bored of. I love the complex-problem solving nature of building out hands-on cybersecurity projects, there is never a dull moment! From vulnerability management to threat detection to cloud security, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 
-## ⚠️ Vulnerability Management Projects
+## ⚠️ Vulnerability Management and GRC Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/ChrisHerrera90/)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/ChrisHerrera90/programmatic-vulnerability-remediations)**
+- **[CIS Critical Security Control Implementation for a Real Business](https://github.com/ChrisHerrera90/)**
+- **[NIST 800-61 Incident Response Plan for a Real Business ](https://github.com/ChrisHerrera90/)**
 
-## 🚨 Threat Hunting and Security Operations
+## 🚨 Security Operations and Threat Hunting Projects
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/ChrisHerrera90/)**
+- **[Mini SOC and Honeynet Creation](https://github.com/ChrisHerrera90/)**
+- **Threat Hunting Scenarios**
+  - **[Threat Hunting Scenario 1:---](https://github.com/ChrisHerrera90/)**
+- **Incident Response Against Simulated Attacks with Atomic Red Team**
+  - **[Security Incident 1: ---](https://github.com/ChrisHerrera90/)**
+- **Configuring Azure Sentinel for EDR and SIEM Threat Detection**
+  - **[MITRE ATT&Ck 1: ----](https://github.com/ChrisHerrera90/)**
+- **Complete Phishing Analysis Investigation with Report**
+  - **[Phishing Analysis 1: ---](https://github.com/ChrisHerrera90/)**
+- **Malware Traffic PCAP Analysis**
+  - **[Malware PCAP 1: Brute Force Attempt](https://github.com/ChrisHerrera90/)**
 
+
+## ☁️ Cloud Security Engineering Projects
+
+- Coming soon!
+  
 <hr/>
 
 ## 🤳 Connect With Me
