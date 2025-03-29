@@ -28,6 +28,10 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
 ## ☁️ Cloud Security Engineering Projects
 
 - Coming soon!
+
+## 🧪 My Lab Walkthroughs and Documentation
+
+- Coming soon!
   
 <hr/>
 
