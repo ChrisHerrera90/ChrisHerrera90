@@ -15,7 +15,7 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
 - **[Mini SOC and Honeynet Creation](https://github.com/ChrisHerrera90/)**
 - **Threat Hunting Scenarios**
   - **[Threat Hunting Scenario 1:---](https://github.com/ChrisHerrera90/)**
-- **Incident Response Against Simulated Attacks with Atomic Red Team**
+- **NIST 800-61 Incident Response Against Simulated Attacks**
   - **[Security Incident 1: ---](https://github.com/ChrisHerrera90/)**
 - **Configuring Azure Sentinel for EDR and SIEM Threat Detection**
   - **[MITRE ATT&Ck 1: ----](https://github.com/ChrisHerrera90/)**
