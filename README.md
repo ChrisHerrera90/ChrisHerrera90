@@ -9,6 +9,7 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/ChrisHerrera90/programmatic-vulnerability-remediations)**
 - **[CIS Critical Security Control Implementation for a Real Business](https://github.com/ChrisHerrera90/)**
 - **[NIST 800-61 Incident Response Plan for a Real Business ](https://github.com/ChrisHerrera90/)**
+- **[OWASP Patching Project](https://github.com/ChrisHerrera90/)**
 
 ## 🚨 Security Operations and Threat Hunting Projects
 
@@ -17,8 +18,8 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
   - **[Threat Hunting Scenario 1:---](https://github.com/ChrisHerrera90/)**
 - **NIST 800-61 Incident Response Against Simulated Attacks**
   - **[Security Incident 1: ---](https://github.com/ChrisHerrera90/)**
-- **Configuring Azure Sentinel for EDR and SIEM Threat Detection**
-  - **[MITRE ATT&Ck 1: ----](https://github.com/ChrisHerrera90/)**
+- **Security Engineering within Azure (SIEM, EDR, Firewalls, etc.)**
+  - **[MITRE ATT&Ck 1 Detection: ----](https://github.com/ChrisHerrera90/)**
 - **Complete Phishing Analysis Investigation with Report**
   - **[Phishing Analysis 1: ---](https://github.com/ChrisHerrera90/)**
 - **Malware Traffic PCAP Analysis**
