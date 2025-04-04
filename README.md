@@ -6,7 +6,7 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
 ## ⚠️ Vulnerability Management and GRC Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/ChrisHerrera90/)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/ChrisHerrera90/programmatic-vulnerability-remediations)**
+- **[Programmatic Remediations of DISA STIG Vulnearbilities (PowerShell and BASH)](https://github.com/ChrisHerrera90/programmatic-vulnerability-remediations)**
 - **[CIS Critical Security Control Implementation for a Real Business](https://github.com/ChrisHerrera90/)**
 - **[NIST 800-61 Incident Response Plan for a Real Business ](https://github.com/ChrisHerrera90/)**
 - **[OWASP Patching Project](https://github.com/ChrisHerrera90/)**
