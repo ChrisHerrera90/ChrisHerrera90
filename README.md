@@ -10,6 +10,7 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
 - **[CIS Critical Security Control Implementation for a Real Business](https://github.com/ChrisHerrera90/)**
 - **[NIST 800-61 Incident Response Plan for a Real Business ](https://github.com/ChrisHerrera90/)**
 - **[OWASP Patching Project](https://github.com/ChrisHerrera90/)**
+- **[Active Directory Project](https://github.com/ChrisHerrera90/)**
 
 ## 🚨 Security Operations and Threat Hunting Projects
 
