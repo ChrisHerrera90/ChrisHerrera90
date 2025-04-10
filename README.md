@@ -5,26 +5,26 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
 
 ## ⚠️ Vulnerability Management and GRC Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/ChrisHerrera90/)**
-- **[Programmatic Remediations of DISA STIG Vulnearbilities (PowerShell and BASH)](https://github.com/ChrisHerrera90/programmatic-vulnerability-remediations)**
-- **[CIS Critical Security Control Implementation for a Real Business](https://github.com/ChrisHerrera90/)**
-- **[NIST 800-61 Incident Response Plan for a Real Business ](https://github.com/ChrisHerrera90/)**
-- **[OWASP Patching Project](https://github.com/ChrisHerrera90/)**
-- **[Active Directory Project](https://github.com/ChrisHerrera90/)**
+- **[Vulnerability Management Program Implementation]([https://github.com/ChrisHerrera90/](https://github.com/ChrisHerrera90/vulnerability-management-program))**
+- **[Programmatic Remediations of DISA STIG Vulnearbilities (PowerShell and BASH)](coming soon)**
+- **[CIS Critical Security Control Implementation for a Real Business] (coming soon)**
+- **[NIST 800-61 Incident Response Plan for a Real Business ] (coming soon)**
+- **[OWASP Patching Project] (coming soon)**
+- **[Active Directory Project] (coming soon))**
 
 ## 🚨 Security Operations and Threat Hunting Projects
 
-- **[Mini SOC and Honeynet Creation](https://github.com/ChrisHerrera90/)**
+- **[Mini SOC and Honeynet Creation] (coming soon)**
 - **Threat Hunting Scenarios**
-  - **[Threat Hunting Scenario 1:---](https://github.com/ChrisHerrera90/)**
+  - **[Threat Hunting Scenario 1:---] (coming soon)**
 - **NIST 800-61 Incident Response Against Simulated Attacks**
-  - **[Security Incident 1: ---](https://github.com/ChrisHerrera90/)**
+  - **[Security Incident 1: ---] (coming soon)**
 - **Security Engineering within Azure (SIEM, EDR, Firewalls, etc.)**
-  - **[MITRE ATT&Ck 1 Detection: ----](https://github.com/ChrisHerrera90/)**
+  - **[MITRE ATT&Ck 1 Detection: ----] (coming soon)**
 - **Complete Phishing Analysis Investigation with Report**
-  - **[Phishing Analysis 1: ---](https://github.com/ChrisHerrera90/)**
+  - **[Phishing Analysis 1: ---] (coming soon)**
 - **Malware Traffic PCAP Analysis**
-  - **[Malware PCAP 1: Brute Force Attempt](https://github.com/ChrisHerrera90/)**
+  - **[Malware PCAP 1: Brute Force Attempt] (coming soon)**
 
 
 ## ☁️ Cloud Security Engineering Projects
