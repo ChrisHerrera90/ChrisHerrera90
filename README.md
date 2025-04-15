@@ -15,12 +15,12 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
 ## 🚨 Security Operations and Threat Hunting Projects
 
 - **[Mini SOC and Honeynet Creation] (coming soon)**
-- **Threat Hunting Scenarios**
-  - **[Threat Hunting Scenario 1:---] (coming soon)**
 - **NIST 800-61 Incident Response Against Simulated Attacks**
   - **[Security Incident 1: ---] (coming soon)**
 - **Security Engineering within Azure (SIEM, EDR, Firewalls, etc.)**
   - **[MITRE ATT&Ck 1 Detection: ----] (coming soon)**
+  - - **Threat Hunting Scenarios**
+  - **[Threat Hunting Scenario 1:---] (coming soon)**
 - **Complete Phishing Analysis Investigation with Report**
   - **[Phishing Analysis 1: ---] (coming soon)**
 - **Malware Traffic PCAP Analysis**
