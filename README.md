@@ -19,7 +19,7 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
   - **[Security Incident 1: ---] (coming soon)**
 - **Security Engineering within Azure (SIEM, EDR, Firewalls, etc.)**
   - **[MITRE ATT&Ck 1 Detection: ----] (coming soon)**
-  - - **Threat Hunting Scenarios**
+- **Threat Hunting Scenarios**
   - **[Threat Hunting Scenario 1:---] (coming soon)**
 - **Complete Phishing Analysis Investigation with Report**
   - **[Phishing Analysis 1: ---] (coming soon)**
