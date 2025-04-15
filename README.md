@@ -15,7 +15,7 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
 ## 🚨 Security Operations and Threat Hunting Projects
 
 - **[Mini SOC and Honeynet Creation] (coming soon)**
-- **NIST 800-61 Incident Response Against Simulated Attacks**
+- **NIST 800-61 Complete Incident Response Investigations Against Simulated Attacks**
   - **[Security Incident 1: ---] (coming soon)**
 - **Security Engineering within Azure (SIEM, EDR, Firewalls, etc.)**
   - **[MITRE ATT&Ck 1 Detection: ----] (coming soon)**
