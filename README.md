@@ -17,7 +17,7 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
 - **NIST 800-61 LIVE SOC Investigations**
   - **[Security Incident 1: ---] (coming soon)**
 - **NIST 800-61 Incident Response Against Simulated Attacks**
-  - **[Security Incident 1: T1059 - Command and Scripting Interpreter]**
+  - **[Security Incident 1: T1059 - Command and Scripting Interpreter Attack](https://github.com/ChrisHerrera90/T1059---Command-and-Scripting-Interpreter-Incident-Response-Atomic-Red)**
 - **Security Engineering within Azure (SIEM, EDR, Firewalls, etc.)**
   - **[MITRE ATT&Ck 1 Detection: ----] (coming soon)**
 - **Threat Hunting Scenarios**
