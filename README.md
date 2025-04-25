@@ -21,7 +21,7 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
 - **Security Engineering within Azure (SIEM, EDR, Firewalls, etc.)**
   - **[MITRE ATT&Ck 1 Detection: ----] (coming soon)**
 - **Threat Hunting Scenarios**
-  - **[Threat Hunting Scenario 1:---] (coming soon)**
+  - **[Scenario 1: Unauthorized TOR Browser](https://github.com/ChrisHerrera90/Threat-Hunting-TOR-browser)**
 - **Complete Phishing Analysis Investigation with Report**
   - **[Phishing Analysis 1: Credential Harvester](https://github.com/ChrisHerrera90/phishing-analysis-report1)**
 - **Malware Traffic PCAP Analysis**
