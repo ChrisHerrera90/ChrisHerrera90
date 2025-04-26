@@ -32,7 +32,7 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
 
 - Coming soon!
 
-## 🧪 My Lab Walkthroughs and Documentation
+## 🧪 My Super Projects
 
 - Coming soon!
   
