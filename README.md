@@ -14,7 +14,8 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
 
 ## 🚨 Security Operations and Threat Hunting Projects
 - **Live SOC Threat Hunting Scenarios**
-  - **[Scenario 1: Unauthorized TOR Browser](https://github.com/ChrisHerrera90/Threat-Hunting-TOR-browser)**
+  - **[Scenario 1: Brute Force Attack](https://github.com/ChrisHerrera90/Threathunt-Bruteforce)**
+  - **[Scenario 2: Unauthorized TOR Browser](https://github.com/ChrisHerrera90/Threat-Hunting-TOR-browser)**
 - **NIST 800-61 Threat Hunting and Incident Response Against Simulated Attacks**
   - **[Security Incident 1: T1059 - Command and Scripting Interpreter Attack](https://github.com/ChrisHerrera90/T1059---Command-and-Scripting-Interpreter-Incident-Response-Atomic-Red)**
 - **Security Engineering within Azure (SIEM, EDR, Firewalls, etc.)**
