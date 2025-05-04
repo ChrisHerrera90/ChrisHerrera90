@@ -30,7 +30,7 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
 
 ## ☁️ Cloud Security Engineering Projects
 
-- Coming soon!
+- Complete AWS Cloud Security Architecture Implementation and Testing Against a Simulated-Attack (In Progress)
 
 ## 🧪 My Super Projects
 
