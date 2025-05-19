@@ -2,6 +2,10 @@
 
 Cybersecurity is a fascinating world that I never get bored of. I love the complex-problem solving nature of building out hands-on cybersecurity projects, there is never a dull moment! From vulnerability management to threat detection to cloud security, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
+## ☁️ Cloud Security Engineering Projects
+
+- **[Complete AWS Cloud Security Architecture And Implementation and Splunk Detection Against Simulated-Attacks]**(https://github.com/ChrisHerrera90/Complete-AWS-Cloud-Security-Architecture-Design-and-Splunk-Detection-Against-Simlulated-Attacks)
+
 
 ## ⚠️ Vulnerability Management and GRC Projects
 
@@ -29,9 +33,6 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
   - **[Malware PCAP 1: Brute Force Attempt] (coming soon)**
 
 
-## ☁️ Cloud Security Engineering Projects
-
-- **Complete AWS Cloud Security Architecture Implementation and Detection Against 3 Simulated-Attacks** (In Progress)
 
 ## 🧪 My Super Projects
 
