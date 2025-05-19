@@ -29,8 +29,6 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
   - **[Security Incident 1: ---] (coming soon)**
 - **Complete Phishing Analysis Investigation with Report**
   - **[Phishing Analysis 1: Credential Harvester](https://github.com/ChrisHerrera90/phishing-analysis-report1)**
-- **Malware Traffic PCAP Analysis**
-  - **[Malware PCAP 1: Brute Force Attempt] (coming soon)**
 
 
 
