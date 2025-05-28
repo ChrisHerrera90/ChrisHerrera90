@@ -5,7 +5,8 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
 ## ☁️ Cloud Security Engineering Projects
 
 - **[Complete AWS Cloud Security Architecture And Implementation and Splunk Detection Against Simulated-Attacks](https://github.com/ChrisHerrera90/Complete-AWS-Cloud-Security-Architecture-Design-and-Splunk-Detection-Against-Simlulated-Attacks)**
-
+- **[Attack Simulation 1: --- ] (Coming soon)
+- **[Custom KQL/SPL Cloud Threat Detection Library] (Coming soon)
 
 ## ⚠️ Vulnerability Management and GRC Projects
 
