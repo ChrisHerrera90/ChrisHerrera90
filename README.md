@@ -2,8 +2,8 @@
 
 Cybersecurity is a fascinating world that I never get bored of. I love the complex-problem solving nature of building out hands-on cybersecurity projects, there is never a dull moment! From vulnerability management to threat detection to cloud security, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-# ☁️ Cloud Security Engineering Projects:
-## AWS Detection Engineering and Incident Response
+# ☁️🔐 Cloud Security Engineering Projects:
+## 🕵🏽 AWS Detection Engineering and Incident Response
 - **[Complete AWS Cloud Security Monitoring with Splunk Detection Setup](https://github.com/ChrisHerrera90/Complete-AWS-Cloud-Security-Architecture-Design-and-Splunk-Detection-Against-Simlulated-Attacks)**
 - **[Biotech Attack Simulation: IAM Role Explosion, Priviledge Escalation and IAM Abuse] (Coming soon)**
 - **[Biotech Attack Simulation: Genomic Data Exfiltration on Unencrypted S3 Buckets] (Coming soon)**
@@ -15,7 +15,7 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
 - **[Biotech Attack Simulation: CI/CD Pipeline Poisoning and Compromise] (Coming soon)**
 - **[Custom KQL/SPL Cloud Threat Detection Library] (Coming soon)**
 
-## AWS Security Hardening For Biotech and Healthtech Companies:
+## 🛡️ AWS Security Hardening For Biotech and Healthtech Companies:
 - **[Biotech Security: IAM Least Priviledge and Overprovisioning Remediation] (Coming soon)**
 - **[Biotech Security: Unencrypted S3 Buckets with Genomic Patient Data Remediation ] (Coming soon)**
 - **[Biotech Security: Zero Trust VPC Segmentation for Research and Production Pipelines] (Coming soon)**
