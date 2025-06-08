@@ -5,7 +5,7 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
 # ☁️🔐 Cloud Security Engineering Projects:
 ## 🕵🏽 AWS Detection Engineering and Incident Response
 - **[Complete AWS Cloud Security Monitoring with Splunk Detection Setup](https://github.com/ChrisHerrera90/Complete-AWS-Cloud-Security-Architecture-Design-and-Splunk-Detection-Against-Simlulated-Attacks)**
-- **[Biotech Attack Simulation: IAM Role Explosion, Priviledge Escalation and IAM Abuse] (Coming soon)**
+- **[Biotech Attack Simulation: ITDR for IAM Role Explosion, Priviledge Escalation and IAM Abuse] (Coming soon)**
 - **[Biotech Attack Simulation: Genomic Data Exfiltration on Unencrypted S3 Buckets] (Coming soon)**
 - **[Biotech Attack Simulation: Lateral Movement Between Resources due to Lack of VPC Segmentation] (Coming soon)**
 - **[Biotech Attack Simulation: Brute Force on Unsecured Public APIs] (Coming soon)**
