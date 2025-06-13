@@ -16,7 +16,7 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
 - **[Biotech Attack Simulation: AWS Credential Theft Via GitHub Repo Leaks] (Coming soon)**
 - **[Biotech Attack Simulation: Detection of Logging Being Disabled-Impaired Defenses] (Coming soon)**
 - **[Detection and Response Playbooks] (Coming soon)**
-- **[Custom KQL/SPL Cloud Threat Detection Library] (Coming soon)**
+
 
 ## 🛡️ AWS Security Hardening And Remediation For Biotech and Healthtech Companies:
 - **[Biotech Security: IAM Least Priviledge and Overprovisioning Remediation] (Coming soon)**
@@ -47,8 +47,7 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
   - **[Scenario 3: Crypto Mining Attack](https://github.com/ChrisHerrera90/ThreatHunt-Cryptominer)** 
 - **NIST 800-61 Incident Response Against Simulated Attacks**
   - **[Security Incident 1: T1059 - Command and Scripting Interpreter Attack](https://github.com/ChrisHerrera90/T1059---Command-and-Scripting-Interpreter-Incident-Response-Atomic-Red)**
-- **Security Engineering within Azure (SIEM, EDR, Firewalls, etc.)**
-  - **[MITRE ATT&Ck 1 Detection: ----] (coming soon)**
+- **[Custom KQL/SPL Cloud Threat Detection Rule Library] (Coming soon)**
 - **NIST 800-61 LIVE SOC Investigations**
   - **[Security Incident 1: ---] (coming soon)**
 - **Complete Phishing Analysis Investigation with Report**
