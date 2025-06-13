@@ -29,7 +29,7 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
 - **[Biotech Security: CI/CD Pipeline Security Hardening] (Coming soon)**
 - **[Terraform IaC Templates for AWS Cloud Security Configurations] (Coming soon)**
 
-## 🦾 AI-Powered Threat Detection Project (Coming Soon)
+## 🦾 AI-Powered Autonomous Threat Detection Project (Coming Soon)
 
 ---
 
