@@ -47,7 +47,8 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
   - **[Scenario 3: Crypto Mining Attack](https://github.com/ChrisHerrera90/ThreatHunt-Cryptominer)** 
 - **NIST 800-61 Incident Response Against Simulated Attacks**
   - **[Security Incident 1: T1059 - Command and Scripting Interpreter Attack](https://github.com/ChrisHerrera90/T1059---Command-and-Scripting-Interpreter-Incident-Response-Atomic-Red)**
-- **[Custom KQL/SPL Cloud Threat Detection Rule Library] (Coming soon)**
+- **Custom KQL/SPL Cloud Threat Detection Rule Library**
+  - [KQL Detection Rules](https://github.com/ChrisHerrera90/KQL-Detection-Rule-Library)
 - **NIST 800-61 LIVE SOC Investigations**
   - **[Security Incident 1: ---] (coming soon)**
 - **Complete Phishing Analysis Investigation with Report**
