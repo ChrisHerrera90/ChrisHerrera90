@@ -6,26 +6,30 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
 ## 🕵🏽 AWS Detection Engineering and Incident Response
 - **[Complete AWS Cloud Security Monitoring with Splunk Detection Setup](https://github.com/ChrisHerrera90/Complete-AWS-Cloud-Security-Architecture-Design-and-Splunk-Detection-Against-Simlulated-Attacks)**
 - **[Biotech Attack Simulation: ITDR With OKTA for IAM Priviledge Escalation and IAM Abuse] (Coming soon)**
+- **[Biotech Attack Simulation: MFA Fatigue and Bypass Detection] (Coming soon)**
+- **[Biotech Attack Simulation: Shadow Infrastructure Deployment and Detection] (Coming soon)**
+- **[Biotech Attack Simulation: AWS CLI Abuse Detection] (Coming soon)**
+- **[Biotech Attack Simulation: CI/CD Pipeline Poisoning and Compromise] (Coming soon)**
 - **[Biotech Attack Simulation: Genomic Data Exfiltration on Unencrypted S3 Buckets] (Coming soon)**
 - **[Biotech Attack Simulation: Lateral Movement Between Resources due to Lack of VPC Segmentation] (Coming soon)**
 - **[Biotech Attack Simulation: Brute Force on Unsecured Public APIs] (Coming soon)**
 - **[Biotech Attack Simulation: AWS Credential Theft Via GitHub Repo Leaks] (Coming soon)**
-- **[Biotech Attack Simulation: Shadow Infrastructure Deployment and Detection] (Coming soon)**
 - **[Biotech Attack Simulation: Detection of Logging Being Disabled-Impaired Defenses] (Coming soon)**
-- **[Biotech Attack Simulation: CI/CD Pipeline Poisoning and Compromise] (Coming soon)**
+- **[Detection and Response Playbooks] (Coming soon)**
 - **[Custom KQL/SPL Cloud Threat Detection Library] (Coming soon)**
 
-## 🛡️ AWS Security Hardening For Biotech and Healthtech Companies:
+## 🛡️ AWS Security Hardening And Remediation For Biotech and Healthtech Companies:
 - **[Biotech Security: IAM Least Priviledge and Overprovisioning Remediation] (Coming soon)**
-- **[Biotech Security: Unencrypted S3 Buckets with Genomic Patient Data Remediation ] (Coming soon)**
+- **[Biotech Security: Unencrypted S3 Buckets with Patient Data Remediation ] (Coming soon)**
 - **[Biotech Security: Zero Trust VPC Segmentation for Research and Production Pipelines] (Coming soon)**
 - **[Biotech Security: Securing Bioinformatics APIs] (Coming soon)**
 - **[Biotech Security: AWS Secrets Manager and Git-Secrets for Avoiding Credential Theft via Github Repo Leaks] (Coming soon)**
 - **[Biotech Security: Using AWS Config and Splunk To Detect Shadow Infrastructure] (Coming soon)**
-- **[Biotech Security: Using AWS Config, Audit Manager and Control Tower to ] (Coming soon)**
 - **[Biotech Security: Splunk Dashboard to Monitor HIPAA and SOC2 Compliance] (Coming soon)**
 - **[Biotech Security: CI/CD Pipeline Security Hardening] (Coming soon)**
-- **[Terraform IaC Templates for AWS Cloud Security] (Coming soon)**
+- **[Terraform IaC Templates for AWS Cloud Security Configurations] (Coming soon)**
+
+## 🦾 AI-Powered Threat Detection Project (Coming Soon)
 
 ---
 
