@@ -2,15 +2,16 @@
 
 Cybersecurity is a fascinating world that I never get bored of. I love the complex-problem solving nature of building out hands-on cybersecurity projects, there is never a dull moment! From vulnerability management to threat detection to cloud security, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-# ☁️🔐 Cloud Security Engineering Projects:
+# ☁️🔐 Cloud Security Engineering Projects and Use Cases:
 ## 🕵🏽 AWS Detection Engineering and Incident Response
 - **[Complete AWS Cloud Security Monitoring with Splunk Detection Setup](https://github.com/ChrisHerrera90/Complete-AWS-Cloud-Security-Architecture-Design-and-Splunk-Detection-Against-Simlulated-Attacks)**
 - **[Biotech Attack Simulation: ITDR With OKTA for IAM Priviledge Escalation and IAM Abuse] (Coming soon)**
+- **[Biotech Attack Simulation: CI/CD Pipeline Poisoning and Compromise Detection in a Bioinformatics App] (Coming soon)**
+- **[Biotech Attack Simulation: HIPAA Compliance Drift Detection] (Coming soon)**
 - **[Biotech Attack Simulation: MFA Fatigue and Bypass Detection] (Coming soon)**
+- **[Biotech Attack Simulation: Genomic Data Exfiltration on Unencrypted S3 Buckets] (Coming soon)**
 - **[Biotech Attack Simulation: Shadow Infrastructure Deployment and Detection] (Coming soon)**
 - **[Biotech Attack Simulation: AWS CLI Abuse Detection] (Coming soon)**
-- **[Biotech Attack Simulation: CI/CD Pipeline Poisoning and Compromise] (Coming soon)**
-- **[Biotech Attack Simulation: Genomic Data Exfiltration on Unencrypted S3 Buckets] (Coming soon)**
 - **[Biotech Attack Simulation: Lateral Movement Between Resources due to Lack of VPC Segmentation] (Coming soon)**
 - **[Biotech Attack Simulation: Brute Force on Unsecured Public APIs] (Coming soon)**
 - **[Biotech Attack Simulation: AWS Credential Theft Via GitHub Repo Leaks] (Coming soon)**
