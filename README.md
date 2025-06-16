@@ -19,7 +19,7 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
 - **[Detection and Response Playbooks] (Coming soon)**
 
 
-## 🛡️ AWS SOC2, HIPAA and ISO 27001 Security Hardening For Biotech and Healthtech Companies:
+## 🛡️ AWS Zero Trust, SOC2, HIPAA and ISO 27001 Security Hardening For Biotech and Healthtech Companies:
 - **[Biotech Security: PAM, RBAC, ABAC Configurations For Biotech Employees] (Coming soon)**
 - **[Biotech Security: MFA, SSO and Password Enforcement with OKTA for Employees] (Coming soon)**
 - **[Biotech Security: Creating, Managing and Deprovisioning User Accounts] (Coming soon)**
