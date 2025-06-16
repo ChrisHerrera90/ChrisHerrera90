@@ -5,7 +5,7 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
 # ☁️🔐 Cloud Security Engineering Projects and Use Cases:
 ## 🕵🏽 AWS Detection Engineering and Incident Response
 - **[Complete AWS Cloud Security Monitoring with Splunk Detection Setup](https://github.com/ChrisHerrera90/Complete-AWS-Cloud-Security-Architecture-Design-and-Splunk-Detection-Against-Simlulated-Attacks)**
-- **[Biotech Attack Simulation: ITDR With OKTA for IAM Priviledge Escalation and IAM Abuse] (Coming soon)**
+- **[Biotech Attack Simulation: ITDR With OKTA for IAM Priviledge Escalation and IAM Abuse Atack] (Coming soon)**
 - **[Biotech Attack Simulation: CI/CD Pipeline Poisoning and Compromise Detection in a Bioinformatics App] (Coming soon)**
 - **[Biotech Attack Simulation: HIPAA Compliance Drift Detection] (Coming soon)**
 - **[Biotech Attack Simulation: MFA Fatigue and Bypass Detection] (Coming soon)**
@@ -19,9 +19,11 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
 - **[Detection and Response Playbooks] (Coming soon)**
 
 
-## 🛡️ AWS Security Hardening And Remediation For Biotech and Healthtech Companies:
-- **[Biotech Security: IAM Least Priviledge and Overprovisioning Remediation] (Coming soon)**
-- **[Biotech Security: Unencrypted S3 Buckets with Patient Data Remediation ] (Coming soon)**
+## 🛡️ AWS SOC2, HIPAA and ISO 27001 Security Hardening For Biotech and Healthtech Companies:
+- **[Biotech Security: PAM, RBAC, ABAC Configurations For Biotech Employees] (Coming soon)**
+- **[Biotech Security: MFA, SSO and Password Enforcement with OKTA for Employees] (Coming soon)**
+- **[Biotech Security: Creating, Managing and Deprovisioning User Accounts] (Coming soon)**
+- **[Biotech Security: Data Security for S3 Buckets with Patient Data Remediation ] (Coming soon)**
 - **[Biotech Security: Zero Trust VPC Segmentation for Research and Production Pipelines] (Coming soon)**
 - **[Biotech Security: Securing Bioinformatics APIs] (Coming soon)**
 - **[Biotech Security: AWS Secrets Manager and Git-Secrets for Avoiding Credential Theft via Github Repo Leaks] (Coming soon)**
