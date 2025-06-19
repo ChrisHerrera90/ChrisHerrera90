@@ -19,16 +19,17 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
 
 
 ## 🛡️ Ready To Use AWS Security Hardened IaC Templates (Terraform) For Biotech/Healthtech
-- **[IaC Template 1: PAM, RBAC, ABAC Configurations For Biotech Employees] (Coming soon)**
-- **[IaC Template 2: MFA, SSO and Password Enforcement with OKTA for Employees] (Coming soon)**
-- **[IaC Template 3: Creating, Managing and Deprovisioning User Accounts] (Coming soon)**
-- **[IaC Template 4: Data Security for S3 Buckets with Patient Data Remediation ] (Coming soon)**
-- **[IaC Template 5: Zero Trust VPC Segmentation for Research and Production Pipelines] (Coming soon)**
-- **[IaC Template 6: Securing Bioinformatics APIs] (Coming soon)**
-- **[IaC Template 7: AWS Secrets Manager and Git-Secrets for Avoiding Credential Theft via Github Repo Leaks] (Coming soon)**
-- **[IaC Template 8: Using AWS Config and Splunk To Detect Shadow Infrastructure] (Coming soon)**
-- **[IaC Template 9: Splunk Dashboard to Monitor HIPAA and SOC2 Compliance] (Coming soon)**
-- **[IaC Template 10: CI/CD Pipeline Security Hardening] (Coming soon)**
+- **[IaC Template 1: Zero Trust IAM Enforcement For Biotech Employees] (Coming soon)**
+- **[IaC Template 2: CI/CD Pipeline Security Hardening] (Coming soon)**
+- **[IaC Template 3: HIPAA Compliance Drift Detection] (Coming soon)**
+- **[IaC Template 4: MFA and Password Enforcement for Employees] (Coming soon)**
+- **[IaC Template 5: S3 Encryption and Least Privilege Data Access Policy for Different Departments] (Coming soon)**
+- **[IaC Template 6: Detect and Block Unauthorized "Shadow" Infrastructure] (Coming soon)**
+- **[IaC Template 7: Detect and limit Unauthorized AWS CLI Access] (Coming soon)**
+- **[IaC Template 8: Zero Trust VPC Segmentation for Preventing Lateral Movement] (Coming soon)**
+- **[IaC Template 9: Securing Public APIs Against Brute Force Attacks] (Coming soon)**
+- **[IaC Template 10: Prevent Hardcoded Secrets from Being Leaked] (Coming soon)**
+- **[IaC Template 7: Prevent and Detect Logs Being Disabled (Impaired Defenses)] (Coming soon)**
 
 
 ## 🦾 AI-Powered Autonomous Threat Detection Project (Coming Soon)
