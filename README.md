@@ -16,6 +16,7 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
 - **[Playbook 9: Brute Force on Unsecured Public APIs] (Coming soon)**
 - **[Playbook 10: AWS Credential Theft Via GitHub Repo Leaks] (Coming soon)**
 - **[Playbook 11: Detection of Logging Being Disabled-Impaired Defenses] (Coming soon)**
+- **[Playbook 2: Automated Vulnerability Scanning using Lambda Functions] (Coming soon)**
 
 
 ## 🛡️ Ready To Use AWS Security Hardened IaC Templates (Terraform) For Biotech/Healthtech
