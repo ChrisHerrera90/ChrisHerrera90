@@ -2,8 +2,8 @@
 
 Cybersecurity is a fascinating world that I never get bored of. I love the complex-problem solving nature of building out hands-on cybersecurity projects, there is never a dull moment! From vulnerability management to threat detection to cloud security, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-# ☁️🔐 Ready To Use AWS Cloud Security Detection + SOAR Playbooks for Biotech/Healthtech:
-## 🕵🏽 AWS Detection Engineering and Incident Response
+# ☁️🔐 Cloud Security Engineering Projects and Use Cases:
+## 🕵🏽 Ready To Use AWS Cloud Security Detection + SOAR Playbooks for Biotech/Healthtech:
 - **[Complete AWS Cloud Security Monitoring with Splunk Detection Setup](https://github.com/ChrisHerrera90/Complete-AWS-Cloud-Security-Architecture-Design-and-Splunk-Detection-Against-Simlulated-Attacks)**
 - **[Playbook 1: ITDR With OKTA for IAM Privilege Escalation and IAM Abuse Atack] (Coming soon)**
 - **[Playbook 2: CI/CD Pipeline Poisoning and Compromise Detection in a Bioinformatics App] (Coming soon)**
