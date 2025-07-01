@@ -12,12 +12,12 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
 ---
 
 # 🚨 Security Operations and Threat Hunting Projects
+- **Azure Detection Engineering For Endpoints Against Simulated Attacks**
+  - **[Windows Simulation: T1059 - Command and Scripting Interpreter Attack](https://github.com/ChrisHerrera90/T1059---Command-and-Scripting-Interpreter-Incident-Response-Atomic-Red)**
 - **Threat Hunting**
   - **[Scenario 1: Brute Force Attack](https://github.com/ChrisHerrera90/Threathunt-Bruteforce)**
   - **[Scenario 2: Unauthorized TOR Browser](https://github.com/ChrisHerrera90/Threat-Hunting-TOR-browser)**
   - **[Scenario 3: Crypto Mining Attack](https://github.com/ChrisHerrera90/ThreatHunt-Cryptominer)** 
-- **Azure Detection Engineering For Endpoints Against Simulated Attacks**
-  - **[Windows Simulation: T1059 - Command and Scripting Interpreter Attack](https://github.com/ChrisHerrera90/T1059---Command-and-Scripting-Interpreter-Incident-Response-Atomic-Red)**
 - **Custom KQL/SPL Cloud Threat Detection Rule Library**
   - [KQL Detection Rules](https://github.com/ChrisHerrera90/KQL-Detection-Rule-Library)
 - **Complete Phishing Analysis Investigation with Report**
