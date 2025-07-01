@@ -3,20 +3,19 @@
 Cybersecurity is a fascinating world that I never get bored of. I love the complex-problem solving nature of building out hands-on cybersecurity projects, there is never a dull moment! From vulnerability management to threat detection to cloud security, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 # ☁️🔐 Cloud Security Engineering Projects and Use Cases:
-## 🕵🏽 Ready To Use AWS Cloud Security Detection + SOAR Playbooks for Biotech/Healthtech:
-- **[Complete AWS Cloud Security Monitoring with Splunk Detection Setup](https://github.com/ChrisHerrera90/Complete-AWS-Cloud-Security-Architecture-Design-and-Splunk-Detection-Against-Simlulated-Attacks)**
-- **[Playbook 1: ITDR With OKTA for IAM Privilege Escalation and IAM Abuse Atack] (Coming soon)**
-- **[Playbook 2: CI/CD Pipeline Poisoning and Compromise Detection in a Bioinformatics App] (Coming soon)**
-- **[Playbook 4: MFA Fatigue and Bypass Detection] (Coming soon)**
-- **[Playbook 3: HIPAA Compliance Drift Detection] (Coming soon)**
-- **[Playbook 5: Genomic Data Exfiltration on Unencrypted S3 Buckets] (Coming soon)**
-- **[Playbook 6: Shadow Infrastructure Deployment and Detection] (Coming soon)**
-- **[Playbook 7: AWS CLI Abuse Detection] (Coming soon)**
-- **[Playbook 8: Lateral Movement Between Resources due to Lack of VPC Segmentation] (Coming soon)**
-- **[Playbook 9: Brute Force on Unsecured Public APIs] (Coming soon)**
-- **[Playbook 10: AWS Credential Theft Via GitHub Repo Leaks] (Coming soon)**
-- **[Playbook 11: Detection of Logging Being Disabled-Impaired Defenses] (Coming soon)**
-- **[Playbook 12: Automated Vulnerability Scanning using Lambda Functions] (Coming soon)**
+## 🕵🏽 Detection Engineering for Biotech/Healthtech AWS Environments:
+- **[Complete AWS Cloud Security Monitoring with Splunk Detection Home Lab Setup](https://github.com/ChrisHerrera90/Complete-AWS-Cloud-Security-Architecture-Design-and-Splunk-Detection-Against-Simlulated-Attacks)**
+- **[Scenario 1: ITDR With OKTA for IAM Privilege Escalation and IAM Abuse Atack] (Coming soon)**
+- **[Scenario 2: CI/CD Pipeline Poisoning and Compromise Detection in a Bioinformatics App] (Coming soon)**
+- **[Scenario 4: MFA Fatigue and Bypass Detection] (Coming soon)**
+- **[Scenario 3: HIPAA Compliance Drift Detection] (Coming soon)**
+- **[Scenario 5: Genomic Data Exfiltration on Unencrypted S3 Buckets] (Coming soon)**
+- **[Scenario 6: Shadow Infrastructure Deployment and Detection] (Coming soon)**
+- **[Scenario 7: AWS CLI Abuse Detection] (Coming soon)**
+- **[Scenario 8: Lateral Movement Between Resources] (Coming soon)**
+- **[Scenario 9: Brute Force on Unsecured Public APIs] (Coming soon)**
+- **[Scenario 10: AWS Credential Theft Via GitHub Repo Leaks] (Coming soon)**
+- **[Scenario 11: Detection of Logging Being Disabled-Impaired Defenses] (Coming soon)**
 
 
 ## 🛡️ Ready To Use AWS Security Hardened IaC Templates (Terraform) For Biotech/Healthtech
@@ -49,8 +48,8 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
   - **[Scenario 1: Brute Force Attack](https://github.com/ChrisHerrera90/Threathunt-Bruteforce)**
   - **[Scenario 2: Unauthorized TOR Browser](https://github.com/ChrisHerrera90/Threat-Hunting-TOR-browser)**
   - **[Scenario 3: Crypto Mining Attack](https://github.com/ChrisHerrera90/ThreatHunt-Cryptominer)** 
-- **NIST 800-61 Incident Response Against Simulated Attacks**
-  - **[Security Incident 1: T1059 - Command and Scripting Interpreter Attack](https://github.com/ChrisHerrera90/T1059---Command-and-Scripting-Interpreter-Incident-Response-Atomic-Red)**
+- **Azure Detection Engineering For Endpoints Against Simulated Attacks**
+  - **[Windows Simulation: T1059 - Command and Scripting Interpreter Attack](https://github.com/ChrisHerrera90/T1059---Command-and-Scripting-Interpreter-Incident-Response-Atomic-Red)**
 - **Custom KQL/SPL Cloud Threat Detection Rule Library**
   - [KQL Detection Rules](https://github.com/ChrisHerrera90/KQL-Detection-Rule-Library)
 - **Complete Phishing Analysis Investigation with Report**
