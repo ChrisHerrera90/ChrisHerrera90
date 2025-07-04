@@ -26,17 +26,17 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
 ---
 
 # ☁️🔐 Cloud Security Engineering Projects and Use Cases:
-## 🕵🏽 Detection Engineering for Biotech/Healthtech AWS Environments:
+## 🕵🏽 Detection Engineering for AI Environments In AWS:
 - **[Complete AWS Cloud Security Monitoring with Splunk Detection Home Lab Setup](https://github.com/ChrisHerrera90/Complete-AWS-Cloud-Security-Architecture-Design-and-Splunk-Detection-Against-Simlulated-Attacks)**
-- **[Scenario 1: ITDR With OKTA for IAM Privilege Escalation and IAM Abuse Atack] (Coming soon)**
-- **[Scenario 2: CI/CD Pipeline Poisoning and Compromise Detection in a Bioinformatics App] (Coming soon)**
-- **[Scenario 4: MFA Fatigue and Bypass Detection] (Coming soon)**
-- **[Scenario 3: HIPAA Compliance Drift Detection] (Coming soon)**
-- **[Scenario 5: Genomic Data Exfiltration on Unencrypted S3 Buckets] (Coming soon)**
-- **[Scenario 6: Shadow Infrastructure Deployment and Detection] (Coming soon)**
-- **[Scenario 7: AWS CLI Abuse Detection] (Coming soon)**
-- **[Scenario 8: Lateral Movement Between Resources] (Coming soon)**
-- **[Scenario 9: Brute Force on Unsecured Public APIs] (Coming soon)**
+- **[Scenario 1: ITDR With OKTA for IAM Privilege Escalation Aagainst AI API Access] (Coming soon)**
+- **[Scenario 2: CI/CD Pipeline Poisoning in AI Inference Stack] (Coming soon)**
+- **[Scenario 3: MFA Fatigue and Bypass Detection] (Coming soon)**
+- **[Scenario 4: AI Model Governance Drift Detection] (Coming soon)**
+- **[Scenario 5: AI Training Dataset Exfiltration on Unencrypted S3 Buckets] (Coming soon)**
+- **[Scenario 6: Shadow AI Inference Cluster Detection] (Coming soon)**
+- **[Scenario 7: Unauthorized AI API Access via CLI Abuse Detection] (Coming soon)**
+- **[Scenario 8: Lateral Movement Into GPU Cluster Detection] (Coming soon)**
+- **[Scenario 9: Brute Force on LLM Inference APIs] (Coming soon)**
 - **[Scenario 10: AWS Credential Theft Via GitHub Repo Leaks] (Coming soon)**
 - **[Scenario 11: Detection of Logging Being Disabled-Impaired Defenses] (Coming soon)**
 
