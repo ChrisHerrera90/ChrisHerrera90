@@ -24,34 +24,34 @@ My current lab work follows FedRAMP's Consolidated Rules for 2026 (CR26) and the
 
 ---
 
-# ☁️🔐 Cloud Security Engineering Projects and Use Cases:
-## 🕵🏽 Detection Engineering for AI Environments In AWS:
-- **[Complete AWS Cloud Security Monitoring with Splunk Detection Home Lab Setup](https://github.com/ChrisHerrera90/Complete-AWS-Cloud-Security-Architecture-Design-and-Splunk-Detection-Against-Simlulated-Attacks)**
+## ☁️ Cloud Security & Continuous Monitoring Labs
 
-
----
-
-# ⚠️ Vulnerability Management and GRC Projects
-- **[Vulnerability Management Program Implementation](https://github.com/ChrisHerrera90/vulnerability-management-program)**
-- **[CIS Critical Security Control Implementation for a Real Business](https://github.com/ChrisHerrera90/CIS-controls-project)**
-- **[Programmatic Remediations of DISA STIG Vulnerabilities (PowerShell and BASH)](https://github.com/ChrisHerrera90/Powershell-and-Bash-Remediation-Scripts)**
+| Project | What it shows | NIST 800-53 | Tools |
+|---|---|---|---|
+| **[AWS Security Logging & Continuous Monitoring Lab](https://github.com/ChrisHerrera90/Complete-AWS-Cloud-Security-Architecture-Design-and-Splunk-Detection-Against-Simlulated-Attacks)** | AWS log pipeline into Splunk with detections tested against simulated attacks | AU-2, AU-6, AU-12, SI-4 | AWS, CloudTrail, Splunk |
 
 ---
 
-# 🚨 Security Operations and Threat Hunting Projects
-- **Azure Detection Engineering For Endpoints Against Simulated Attacks (Atomic Red)**
-  - **[Windows Simulation: T1059 - Command and Scripting Interpreter Attack](https://github.com/ChrisHerrera90/T1059---Command-and-Scripting-Interpreter-Incident-Response-Atomic-Red)**
-- **Custom KQL/SPL Cloud Threat Detection Rule Library**
-  - [KQL Detection Rules](https://github.com/ChrisHerrera90/KQL-Detection-Rule-Library)
-- **Threat Hunting**
-  - **[Scenario 1: Brute Force Attack](https://github.com/ChrisHerrera90/Threathunt-Bruteforce)**
-  - **[Scenario 2: Unauthorized TOR Browser](https://github.com/ChrisHerrera90/Threat-Hunting-TOR-browser)**
-  - **[Scenario 3: Crypto Mining Attack](https://github.com/ChrisHerrera90/ThreatHunt-Cryptominer)** 
-- **Complete Phishing Analysis Investigation with Report**
-  - **[Phishing Analysis 1: Credential Harvester](https://github.com/ChrisHerrera90/phishing-analysis-report1)**
+## 🛡️ Vulnerability Management & Configuration Hardening Labs
+
+| Project | What it shows | NIST 800-53 | Tools |
+|---|---|---|---|
+| **[Vulnerability Management Program Implementation](https://github.com/ChrisHerrera90/vulnerability-management-program)** | End-to-end program: policy, scanning, risk-based prioritization, remediation tracking | RA-5, SI-2, CA-7 | [scanner], PowerShell |
+| **[DISA STIG Remediation as Code (PowerShell & Bash)](https://github.com/ChrisHerrera90/Powershell-and-Bash-Remediation-Scripts)** | Scripted fixes for federal STIG findings on Windows and Linux, verified by rescan | CM-6, CM-2, SI-2 | PowerShell, Bash |
+| **[CIS Critical Security Controls Implementation](https://github.com/ChrisHerrera90/CIS-controls-project)** | Control assessment and implementation plan, crosswalked to NIST 800-53 | CIS v8 → 800-53 crosswalk | [tools] |
 
 ---
 
+## 🚨 Security Operations Labs: Detection, Threat Hunting & Incident Response
+
+| Project | What it shows | NIST 800-53 | Tools |
+|---|---|---|---|
+| **[Detection Engineering: T1059 Command & Scripting Interpreter](https://github.com/ChrisHerrera90/T1059---Command-and-Scripting-Interpreter-Incident-Response-Atomic-Red)** | Simulated attack, custom detection, full incident response write-up | SI-4, IR-4, AU-6 | Atomic Red Team, Azure, KQL |
+| **[KQL Detection Rule Library](https://github.com/ChrisHerrera90/KQL-Detection-Rule-Library)** | Reusable detection rules for common cloud and endpoint threats | SI-4, AU-6 | KQL |
+| **[Threat Hunt: Brute Force Attack](https://github.com/ChrisHerrera90/Threathunt-Bruteforce)** | Hypothesis-driven hunt, findings, and lockout recommendations | AC-7, SI-4, IR-4 | KQL |
+| **[Threat Hunt: Unauthorized TOR Browser](https://github.com/ChrisHerrera90/Threat-Hunting-TOR-browser)** | Detecting unapproved software and anonymization tools | CM-7, CM-11, SI-4 | KQL |
+| **[Threat Hunt: Crypto Mining Attack](https://github.com/ChrisHerrera90/ThreatHunt-Cryptominer)** | Detecting and scoping malicious resource abuse | SI-3, SI-4, IR-4 | KQL |
+| **[Phishing Analysis: Credential Harvester](https://github.com/ChrisHerrera90/phishing-analysis-report1)** | Full email investigation with written incident report | IR-4, SI-8 | [tools] |
   
 <hr/>
 
