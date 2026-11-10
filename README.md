@@ -1,6 +1,32 @@
-# <a href="https://www.linkedin.com/in/chris-herrera-grc/">Christopher Herrera</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/chris-herrera-grc/">Christopher Herrera</a>'s GRC and Cybersecurity Project Portfolio 🔐
+### GRC Engineer | FedRAMP CR26 & FISMA RMF | Compliance as Code (AWS, Terraform, Python)
 
-Cybersecurity is a fascinating world that I never get bored of. I love the complex-problem solving nature of building out hands-on cybersecurity projects, there is never a dull moment! From vulnerability management to threat detection to cloud security, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I build compliance evidence the way engineers build software: as code that runs, gets tested in CI, and produces the artifacts an assessor or authorizing official actually needs t pass reviews.
+My current lab work follows FedRAMP's Consolidated Rules for 2026 (CR26) and the NIST Risk Management Framework used for FISMA authorizations. It's built on one AWS system defined in Terraform, with vulnerability reporting, a machine-readable certification package, change notification, and a full agency ATO package, all mapped to NIST SP 800-53 Rev. 5.
+
+**Tools:** AWS · Terraform · Python · GitHub Actions · JSON / OSCAL · Splunk · KQL 
+**Open to:** GRC Engineering, GRC Analyst, and junior ISSO roles on FedRAMP and federal teams.
+
+---
+
+# ☁️🔐 GRC Engineering Projects
+*Self-built labs on a single AWS system. Status and links updated as each one ships.*
+
+| Project | What it produces | Status | Target |
+|---|---|---|---|
+| **FedLab: FedRAMP-Scoped AWS Reference System (Terraform)** | Terraform-built app, Minimum Assessment Scope boundary, automated asset inventory | In progress | Dec 2026 |
+| **FedRAMP CR26 Vulnerability Detection & Response (VDR/VER) Pipeline** | Scanner + custom Python checks → findings graded by reachability, exploitability and impact → monthly machine-readable report + legacy POA&M export | Planned | Jan 2027 |
+| **FedRAMP Certification Package as Code (CPO + SDR)** | ~25 controls documented in JSON, validated in CI, with OSCAL SSP export | Planned | Feb 2027 |
+| **FedRAMP Significant Change Notification (SCN) Pipeline** | GitHub Action that classifies Terraform changes as routine, adaptive or transformative and writes the notification | Planned | Feb 2027 |
+| **Municipal Cybersecurity Assessment: NIST CSF 2.0 + FISMA IG Maturity Model** | Current-state assessment, maturity scoring, prioritized remediation roadmap | Planned | Feb 2027 |
+| **FISMA Agency ATO Package: Full NIST RMF Lifecycle** | All 7 RMF steps, SAP/SAR for 20 controls, ATO memo, continuous monitoring (ISCM) strategy, FY26 CIO metric crosswalk | Planned | Mar 2027 |
+
+---
+
+# ☁️🔐 Cloud Security Engineering Projects and Use Cases:
+## 🕵🏽 Detection Engineering for AI Environments In AWS:
+- **[Complete AWS Cloud Security Monitoring with Splunk Detection Home Lab Setup](https://github.com/ChrisHerrera90/Complete-AWS-Cloud-Security-Architecture-Design-and-Splunk-Detection-Against-Simlulated-Attacks)**
+
 
 ---
 
@@ -24,12 +50,6 @@ Cybersecurity is a fascinating world that I never get bored of. I love the compl
   - **[Phishing Analysis 1: Credential Harvester](https://github.com/ChrisHerrera90/phishing-analysis-report1)**
 
 ---
-
-# ☁️🔐 Cloud Security Engineering Projects and Use Cases:
-## 🕵🏽 Detection Engineering for AI Environments In AWS:
-- **[Complete AWS Cloud Security Monitoring with Splunk Detection Home Lab Setup](https://github.com/ChrisHerrera90/Complete-AWS-Cloud-Security-Architecture-Design-and-Splunk-Detection-Against-Simlulated-Attacks)**
-
-
 
 ## 🛡️ Ready To Use AWS Security Hardened IaC Templates (Terraform) For Biotech/Healthtech
 - **[IaC Template 1: Zero Trust IAM Enforcement For Biotech Employees] (Coming soon)**
