@@ -9,7 +9,7 @@ My current lab work follows FedRAMP's Consolidated Rules for 2026 (CR26) and the
 
 ---
 
-# ☁️🔐 GRC Engineering Projects
+# ⚙️ GRC Engineering Projects
 ## 🏛️ FedRAMP & FISMA Compliance-as-Code Labs
 *Self-built labs on a single AWS system. Status and links updated as each one ships.*
 
@@ -51,14 +51,6 @@ My current lab work follows FedRAMP's Consolidated Rules for 2026 (CR26) and the
   - **[Phishing Analysis 1: Credential Harvester](https://github.com/ChrisHerrera90/phishing-analysis-report1)**
 
 ---
-
-## 🛡️ Ready To Use AWS Security Hardened IaC Templates (Terraform) For Biotech/Healthtech
-- **[IaC Template 1: Zero Trust IAM Enforcement For Biotech Employees] (Coming soon)**
-
-
-
-## 🦾 AI-Powered Autonomous Threat Detection Project (Coming Soon)
-
 
   
 <hr/>
